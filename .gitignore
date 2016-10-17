@@ -1,0 +1,6 @@
+*.iml
+/.idea/
+/target/
+/chat/target/
+chat/src/test/
+
